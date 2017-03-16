@@ -191,3 +191,9 @@
 /area/houseboat/dining_area
 	name = "Houseboat - Dining Area"
 	icon_state = "red"
+
+////Vox Lounge////
+/area/crew_quarters/vox_lounge
+	icon = 'icons/turf/areas_vr.dmi'
+	name = "\improper Vox Lounge"
+	icon_state = "vox_lounge_area"
